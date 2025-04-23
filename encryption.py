@@ -49,3 +49,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# NOTES
+# Although I usually dont do this but just for remebrence leaving this here "verystrongpassword" 
